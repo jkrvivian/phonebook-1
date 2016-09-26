@@ -3,6 +3,7 @@
 * Understand the impact of cache miss
 * Get familiar with the performance analysis tool
 * Realize the software optimizations
+* smaz algorithm [source code](https://github.com/antirez/smaz)
 
 # Indenting Code
 You can use AStyle ([Artistic Style](http://astyle.sourceforge.net/)) source code indenter to
